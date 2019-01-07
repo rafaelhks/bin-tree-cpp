@@ -1,0 +1,9 @@
+# CodeBlocks Files
+*.cpb
+*.depend
+*.layout
+
+# Executables
+*.exe
+*.out
+*.app

@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1546880784 source:c:\users\rafael\documents\github\bin-tree-cpp\src\node.cpp
+	"Node.h"
+	<iostream>
+
+1546878511 c:\users\rafael\documents\github\bin-tree-cpp\include\node.h
+
+1546879506 source:c:\users\rafael\documents\github\bin-tree-cpp\src\tree.cpp
+	"Tree.h"
+	<iostream>
+	<vector>
+
+1546879487 c:\users\rafael\documents\github\bin-tree-cpp\include\tree.h
+	<vector>
+	"Node.h"
+
+1546881039 source:c:\users\rafael\documents\github\bin-tree-cpp\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<algorithm>
+	"Node.h"
+	"Tree.h"
+
